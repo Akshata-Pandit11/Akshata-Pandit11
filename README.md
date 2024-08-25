@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Akshata-Pandit11
 - 👀 I’m interested in Full Stack Development,Machine Learning
-- 🌱 I’m currently learning Node JS 
-- 💞️ I’m looking to collaborate on Full stack development
 - 📫 Reach me at akshatapandit7@gmail.com
 - 😄 Pronouns: She/Her
   
